@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_673dd9a4b830b887a6745d88fb33ee78862b9fd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cardo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\gson-2.3.1_54a367c5724c6b19716c9223bf913282a9eeb693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9f7256089e5a6c145dbfbb87c0d85cc0432ad0ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidADTBundle\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_1b030e3c1f7d85d70d3beae0f500a655284f5510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_ce2fe71728485b0483e7ba67ee8f77a8ce4bab1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_aff5fcea60477bcd65abf71e2c452353d2b97459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_753ce432a8ea220f511dd01b6a701e1b9ac7bda6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b0e3656752c70b771bf81f10c2c95853f744ddd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_4c2ff84fc5d96d5f78c3056f066f4ccbf2e39761.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_50ae4bdb26ef15e43bbe6e860f82062784863f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cardo\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.8.0\a517f29ed06be2b2879524fcd94b6e9b36e2e0b5\retrofit-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\retrofit-1.8.0_47079bc6745800fe59a2f344f9ccba6b2ba64cbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_d11d411b8d7869686f086b1bcfdaafe9d93df3d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_f377513dee93786e2edc52d6c48913c6e6018511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cardo\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_ef4d1f41326cd9c23ef73f6cf26228aa51e12a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_d47a881176264315bb3d36703cc8518209e5d32c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_d2c0757a0aa4ba8bec8fe8ac4643149d17f2eb1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_5f9f92231008d831ff2f96880fbadd2840f47db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="G:\AndroidStudioProjects\GridcoinHangoutsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_ac0a9588d19a714d630fe1e466b7de2595f4264e.jar" />
+    </item>
+
+</items>
